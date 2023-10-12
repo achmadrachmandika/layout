@@ -35,6 +35,7 @@ Langkah 2: Buat widget buttonSection
 jangan lupa menambahkan buttonSection pada body!
 
 Hasil
+
 ![Screenshot Hasil](assets/hasil_prakt2.jpg)
 
 Praktikum 3
